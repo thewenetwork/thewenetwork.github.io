@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-
+##### As an Amazon Associate I earn from qualifying purchases.
+------------------
 ## Face Wash
 #### [ISHIZAWA Keana - Baking Soda Powder Wash - 100 Gram](https://www.amazon.com/ISHIZAWA-Keana-Baking-Soda-Powder/dp/B0012YVY3K?pd_rd_w=dBxhi&content-id=amzn1.sym.724fac2e-0491-4f7a-a10d-2221f9a8bc9a&pf_rd_p=724fac2e-0491-4f7a-a10d-2221f9a8bc9a&pf_rd_r=4WWR37J7T5V9PX3YMMW5&pd_rd_wg=ndOf0&pd_rd_r=cd39f466-c0ea-49cd-90b0-6959f9018779&pd_rd_i=B0012YVY3K&psc=1&ref_=pd_bap_d_grid_rp_0_3_i&_encoding=UTF8&tag=skincare0cc6-20&linkCode=ur2&linkId=16be59786403051dd492046e2f3fbfc6&camp=1789&creative=9325)
 ------------------
