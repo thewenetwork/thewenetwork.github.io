@@ -3,3 +3,4 @@ plugins:
 - jekyll-remote-theme
 title: The We Network
 description: Product recommendations from The We Networks.
+google_analytics: G-3RFWJ5DY0V
