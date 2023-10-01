@@ -3,7 +3,7 @@ layout: default
 ---
 ##### Secrets to longevity.
 ------------------
-## Rules for healthy lifestyle
+## Axioms of a Healthy Lifestyle
 
 **Manage Mental Health** : Mental health is foundational. If one's mental health is compromised, it can be challenging to make other healthy choices or benefit fully from them.
 
