@@ -20,7 +20,7 @@ layout: default
 #### [Dear Klairs - Vitamin Drop 5% Hypoallergenic Pure Vitamin C Serum 1.18 fl oz / 35 ml](https://www.amazon.com/gp/product/B010FOFSH0/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1&_encoding=UTF8&tag=skincare0cc6-20&linkCode=ur2&linkId=215f19cb98d1e356f0b23b1bb4ced82b&camp=1789&creative=9325)
 ------------------
 ## Moisturizer
-#### [Sake Skin Care Crea, Kikumasamune 5.3 oz (150 g)](https://amzn.to/3thOxDq)
+#### [Sake Skin Care Crea, Kikumasamune 5.3 oz / 150 g](https://amzn.to/3thOxDq)
 ------------------
 ## Sunscreen
 #### [Supergoop! Superscreen SPF 40 PA+++ Hydrating Daily Moistuirizer Sunscreen 1.7 fl oz / 50 ml](https://www.amazon.com/gp/product/B07VR6BBY8/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1&_encoding=UTF8&tag=skincare0cc6-20&linkCode=ur2&linkId=1487cb8a9660bf389ac2b909748b45e3&camp=1789&creative=9325)
